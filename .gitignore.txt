@@ -1,2 +1,0 @@
-#Pycharm project files
-.idea
